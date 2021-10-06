@@ -30,10 +30,7 @@ Each node consists of its own data and the address of the next node and forms a 
 
 ## Types of Linked Lists
 
--    Singly Linked List : Singly linked lists contain nodes which have a data part as well as an address part i.e. next, which points to the next node in sequence of nodes. The operations we can perform on singly linked lists are insertion, deletion and traversal.
-<p align="center">
-<img src="http://www.studytonight.com/data-structures/images/linked-list-linear.png"?raw="true">
-</p>
+-  **Singly Linked List** : Singly linked lists contain nodes which have a data part as well as an address part i.e. next, which points to the next node in sequence of nodes. The operations we can perform on singly linked lists are insertion, deletion and traversal.
 
 # singly linked java class implementation
 
