@@ -74,9 +74,6 @@ Each node consists of its own data and the address of the next node and forms a 
     ```
 
 -   **Doubly Linked List :** In a doubly linked list, each node contains two links the first link points to the previous node and the next link points to the next node in the sequence.
-<p align="center">
-<img src="http://www.studytonight.com/data-structures/images/linked-list-double.png"?raw="true">
-</p>
 
 # singly linked java class implementation
 
